@@ -2,8 +2,7 @@ JamChat_Client
 ==============
 GUI front-end client for JamChat
 
-TODO: Write proper README
-
+See http://jamobox.github.io/JamChat/
 
 ##Related Repositories
 - [JamChat_Client](https://github.com/JamoBox/JamChat_Core)
